@@ -1,44 +1,51 @@
-# Olá, eu sou Psiyllo 👋
+# Olá, eu sou Psiyllo! 👋
 
 Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da tecnologia, apaixonado por desenvolvimento de software e inovação. Aqui compartilho meus projetos, ideias e aprendizados.
 
-## 🔭 Projetos em Destaque
+---
 
-| Nome do Projeto                   | Descrição                                   | Tecnologias Usadas       |
-|-----------------------------------|---------------------------------------------|--------------------------|
-| [Estudo Java](https://github.com/Psiyllo/Estudo-java) | Repositório de estudos e práticas em Java.  | `Java`                   |
-| [Lista de Tarefas Flutter](https://github.com/Psiyllo/Lista_Tarefas_Flutter) | Aplicativo de lista de tarefas em Flutter.  | `Flutter`                |
+## 🚀 Projetos em Destaque
+
+- [**Estudo Java**](https://github.com/Psiyllo/Estudo-java): Repositório de estudos e práticas em Java.
+- [**Lista de Tarefas Flutter**](https://github.com/Psiyllo/Lista_Tarefas_Flutter): Aplicativo de lista de tarefas em Flutter.
+
+---
 
 ## 🌱 Atualmente Aprendendo
 
 Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Atualmente, estou focado em:
 
-![Java](https://img.shields.io/badge/-Java-orange)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen)
-![Quarkus](https://img.shields.io/badge/-Quarkus-red)
+- **Java**
+- **Spring Boot**
+- **Quarkus**
 
-## 💬 Contato
+---
 
-Vamos conversar! Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/paulo-césar-alves-cabral-73a538242/).
+## 💬 Vamos Conversar!
 
-## ⚡ Curiosidades
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/paulo-césar-alves-cabral-73a538242/) e vamos trocar ideias!
 
-- Sou apaixonado por resolver problemas complexos com código.
-- Estou sempre em busca de novos desafios e oportunidades de aprendizado.
-- Acredito no poder da comunidade e colaboração para impulsionar a inovação.
+---
 
-## 📊 Estatísticas do GitHub e Commits Recentes
+## 📊 Estatísticas do GitHub
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Psiyllo&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psiyllo&layout=compact&theme=dark" alt="Top Linguagens" />
-</div>
+### Atividade de Commits ao Longo do Tempo
 
-<br/><br/>
+![Atividade de Commits](https://ghchart.rshah.org/Psiyllo)
+
+### Distribuição de Commits por Hora do Dia
+
+![Distribuição de Commits por Hora](https://github.com/Psiyllo/commit-activity/raw/main/commit_activity.png)
+
+---
 
 ## 📅 Commits Recentes
 
-| Repositório                | Mensagem                                           | Data e Hora           |
-|----------------------------|----------------------------------------------------|-----------------------|
-| [Projeto A](https://github.com/Psiyllo/projeto-a)   | Corrigido bug na função de login.                  | 2024-05-08 15:30:00   |
-| [Projeto B](https://github.com/Psiyllo/projeto-b)   | Adicionada nova funcionalidade de upload de arquivos. | 2024-05-07 10:45:00   |
+- **Projeto A**: Corrigido bug na função de login.
+- **Projeto B**: Adicionada nova funcionalidade de upload de arquivos.
+
+---
+
+## 📊 Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psiyllo&layout=compact&theme=dark)
