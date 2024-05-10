@@ -15,9 +15,11 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da tecnologia, apaixonado p
 
 Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Atualmente, estou focado em:
 
-- **Java**
-- **Spring Boot**
-- **Quarkus**
+<div style="display: inline-block; background-color: #f0f0f0; padding: 8px 12px; border-radius: 5px;">
+    <img src="https://img.shields.io/badge/Java-orange" alt="Java" style="margin-right: 5px;">
+    <img src="https://img.shields.io/badge/Spring%20Boot-brightgreen" alt="Spring Boot" style="margin-right: 5px;">
+    <img src="https://img.shields.io/badge/Quarkus-red" alt="Quarkus">
+</div>
 
 ---
 
@@ -29,23 +31,10 @@ Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/paulo-césar-alves-c
 
 ## 📊 Estatísticas do GitHub
 
-### Atividade de Commits ao Longo do Tempo
-
-![Atividade de Commits](https://ghchart.rshah.org/Psiyllo)
-
-### Distribuição de Commits por Hora do Dia
-
-![Distribuição de Commits por Hora](https://github.com/Psiyllo/commit-activity/raw/main/commit_activity.png)
-
----
-
-## 📅 Commits Recentes
-
-- **Projeto A**: Corrigido bug na função de login.
-- **Projeto B**: Adicionada nova funcionalidade de upload de arquivos.
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Psiyllo&show_icons=true&theme=dark)](https://github.com/Psiyllo)
 
 ---
 
 ## 📊 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psiyllo&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psiyllo&layout=compact&theme=dark)](https://github.com/Psiyllo)
