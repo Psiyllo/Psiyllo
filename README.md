@@ -30,3 +30,5 @@ Vamos conversar! Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/pau
 ## 📊 Estatísticas do GitHub
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Psiyllo&show_icons=true&theme=dark)](https://github.com/Psiyllo)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Psiyllo&layout=compact&theme=dark)](https://github.com/Psiyllo)
