@@ -27,8 +27,18 @@ Vamos conversar! Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/pau
 - Estou sempre em busca de novos desafios e oportunidades de aprendizado.
 - Acredito no poder da comunidade e colaboração para impulsionar a inovação.
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub e Commits Recentes
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Psiyllo&show_icons=true&theme=dark)](https://github.com/Psiyllo)
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Psiyllo&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psiyllo&layout=compact&theme=dark" alt="Top Linguagens" />
+</div>
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Psiyllo&layout=compact&theme=dark)](https://github.com/Psiyllo)
+<br/><br/>
+
+## 📅 Commits Recentes
+
+| Repositório                | Mensagem                                           | Data e Hora           |
+|----------------------------|----------------------------------------------------|-----------------------|
+| [Projeto A](https://github.com/Psiyllo/projeto-a)   | Corrigido bug na função de login.                  | 2024-05-08 15:30:00   |
+| [Projeto B](https://github.com/Psiyllo/projeto-b)   | Adicionada nova funcionalidade de upload de arquivos. | 2024-05-07 10:45:00   |
