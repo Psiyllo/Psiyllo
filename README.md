@@ -31,7 +31,7 @@ Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/paulo-césar-alves-c
 
 ## 📊 Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Psiyllo&show_icons=true&theme=dark)](https://github.com/Psiyllo)
+[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Psiyllo&theme=dark)](https://github.com/Psiyllo)
 
 ---
 
